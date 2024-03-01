@@ -1,0 +1,19 @@
+[
+  {
+    "id": "EUP-0451",
+    "name": "Jhon Believer",
+    "aboutMe": "Believe in me as you'd believe in god",
+    "level": 70,
+    "isSubbed": true,
+    "birthDate": "1567-03-05",
+    "imageUrl": "https://github.com/Syntaxly0/playerCharacter/blob/main/EUP-0421pfp.png",
+    "startingCity": "Fiana",
+    "skills": ["protect, holy sword, slash, def up"],
+    "class": {
+      "id": "01",
+      "title": "Paladin",
+      "group": "Tank",
+      "startingLevel": 1
+    }
+  }
+]
