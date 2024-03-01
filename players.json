@@ -8,11 +8,164 @@
     "birthDate": "1567-03-05",
     "imageUrl": "https://github.com/Syntaxly0/playerCharacter/blob/main/EUP-0421pfp.png",
     "startingCity": "Fiana",
-    "skills": ["protect, holy sword, slash, def up"],
+    "skills": ["protect", "holy sword", "slash", "def up"],
     "class": {
       "id": "01",
       "title": "Paladin",
       "group": "Tank",
+      "startingLevel": 1
+    }
+  },
+  {
+    "id": "EUP-1098",
+    "name": "Aria Shadowcaster",
+    "aboutMe": "Mist and shadows are my allies.",
+    "level": 62,
+    "isSubbed": false,
+    "birthDate": "1590-11-12",
+    "imageUrl": "https://example.com/AriaShadowcaster.png",
+    "startingCity": "Luminara",
+    "skills": ["shadow bolt", "cloak of darkness", "shadowmeld"],
+    "class": {
+      "id": "02",
+      "title": "Shadowcaster",
+      "group": "DPS",
+      "startingLevel": 1
+    }
+  },
+  {
+    "id": "EUP-3214",
+    "name": "Garrick Stoneskin",
+    "aboutMe": "My skin is tough as granite.",
+    "level": 55,
+    "isSubbed": true,
+    "birthDate": "1578-07-24",
+    "imageUrl": "https://example.com/GarrickStoneskin.png",
+    "startingCity": "Tyrnhold",
+    "skills": ["stone shield", "earthquake", "rock throw"],
+    "class": {
+      "id": "03",
+      "title": "Earth Warden",
+      "group": "Tank",
+      "startingLevel": 1
+    }
+  },
+  {
+    "id": "EUP-7832",
+    "name": "Liliana Frostheart",
+    "aboutMe": "My heart is as cold as ice, but my loyalty is unwavering.",
+    "level": 68,
+    "isSubbed": true,
+    "birthDate": "1585-12-03",
+    "imageUrl": "https://example.com/LilianaFrostheart.png",
+    "startingCity": "Glacial Peak",
+    "skills": ["frostbite", "ice barrier", "frozen orb"],
+    "class": {
+      "id": "04",
+      "title": "Frost Mage",
+      "group": "DPS",
+      "startingLevel": 1
+    }
+  },
+  {
+    "id": "EUP-8952",
+    "name": "Thorn Ironhide",
+    "aboutMe": "My skin is as tough as thorns, and my spirit unyielding.",
+    "level": 65,
+    "isSubbed": true,
+    "birthDate": "1573-09-18",
+    "imageUrl": "https://example.com/ThornIronhide.png",
+    "startingCity": "Thornvale",
+    "skills": ["thorn shield", "bramble strike", "entangle"],
+    "class": {
+      "id": "05",
+      "title": "Druid",
+      "group": "Tank/DPS",
+      "startingLevel": 1
+    }
+  },
+  {
+    "id": "EUP-6210",
+    "name": "Sylvan Windwalker",
+    "aboutMe": "I harness the power of the wind to protect my allies and smite my enemies.",
+    "level": 72,
+    "isSubbed": true,
+    "birthDate": "1579-06-28",
+    "imageUrl": "https://example.com/SylvanWindwalker.png",
+    "startingCity": "Zephyr Haven",
+    "skills": ["gust of wind", "aero blast", "cyclone"],
+    "class": {
+      "id": "06",
+      "title": "Wind Guardian",
+      "group": "Tank/DPS",
+      "startingLevel": 1
+    }
+  },
+  {
+    "id": "EUP-4321",
+    "name": "Vexx Nightshade",
+    "aboutMe": "My shadows conceal both my presence and my intentions.",
+    "level": 67,
+    "isSubbed": false,
+    "birthDate": "1588-04-15",
+    "imageUrl": "https://example.com/VexxNightshade.png",
+    "startingCity": "Darkwood",
+    "skills": ["shadow strike", "dark cloak", "shadow step"],
+    "class": {
+      "id": "07",
+      "title": "Assassin",
+      "group": "DPS",
+      "startingLevel": 1
+    }
+  },
+  {
+    "id": "EUP-7593",
+    "name": "Elena Sunshard",
+    "aboutMe": "I wield the power of the sun to purify the darkness.",
+    "level": 63,
+    "isSubbed": true,
+    "birthDate": "1592-10-29",
+    "imageUrl": "https://example.com/ElenaSunshard.png",
+    "startingCity": "Solaria",
+    "skills": ["solar flare", "radiant beam", "healing light"],
+    "class": {
+      "id": "08",
+      "title": "Sun Priestess",
+      "group": "Healer",
+      "startingLevel": 1
+    }
+  },
+  {
+    "id": "EUP-9982",
+    "name": "Xander Stormrage",
+    "aboutMe": "My lightning strikes are as swift and deadly as my resolve.",
+    "level": 70,
+    "isSubbed": true,
+    "birthDate": "1570-02-21",
+    "imageUrl": "https://example.com/XanderStormrage.png",
+    "startingCity": "Thunderhold",
+    "skills": ["lightning bolt", "storm surge", "thunderclap"],
+    "class": {
+      "id": "09",
+      "title": "Stormcaller",
+      "group": "DPS",
+      "startingLevel": 1
+    }
+  },
+  {
+    "id": "EUP-8743",
+    "name": "Helena Lightbringer",
+    "aboutMe": "I bring the light of hope to dispel the darkness.",
+    "level": 66,
+    "isSubbed": false,
+    "birthDate": "1583-08-08",
+    "imageUrl": "https://example.com/HelenaLightbringer.png",
+    "startingCity": "Elysium",
+    "skills": ["divine smite", "holy shield", "blessing of light"],
+    "class": {
+      "id": "10",
+      "title": "Cleric",
+      "group": "Healer",
       "startingLevel": 1
     }
   }
