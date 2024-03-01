@@ -1,0 +1,62 @@
+[
+  {
+    "id": "01",
+    "title": "Paladin",
+    "group": "Tank",
+    "startingLevel": 1
+  },
+  {
+    "id": "02",
+    "title": "Shadowcaster",
+    "group": "DPS",
+    "startingLevel": 1
+  },
+  {
+    "id": "03",
+    "title": "Earth Warden",
+    "group": "Tank",
+    "startingLevel": 1
+  },
+  {
+    "id": "04",
+    "title": "Frost Mage",
+    "group": "DPS",
+    "startingLevel": 1
+  },
+  {
+    "id": "05",
+    "title": "Druid",
+    "group": "Tank/DPS",
+    "startingLevel": 1
+  },
+  {
+    "id": "06",
+    "title": "Wind Guardian",
+    "group": "Tank/DPS",
+    "startingLevel": 1
+  },
+  {
+    "id": "07",
+    "title": "Assassin",
+    "group": "DPS",
+    "startingLevel": 1
+  },
+  {
+    "id": "08",
+    "title": "Sun Priestess",
+    "group": "Healer",
+    "startingLevel": 1
+  },
+  {
+    "id": "09",
+    "title": "Stormcaller",
+    "group": "DPS",
+    "startingLevel": 1
+  },
+  {
+    "id": "10",
+    "title": "Cleric",
+    "group": "Healer",
+    "startingLevel": 1
+  }
+]
