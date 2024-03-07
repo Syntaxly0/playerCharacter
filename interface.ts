@@ -1,4 +1,4 @@
-interface Player {
+export interface Player {
     id: string;
     name: string;
     aboutMe: string;
@@ -15,16 +15,3 @@ interface Player {
         startingLevel: number;
     };
 }
-
-const players: Player[] = [
-    // JSON data goes here
-];
-
-// Example usage:
-players.forEach(player => {
-    console.log(`Player ID: ${player.id}`);
-    console.log(`Name: ${player.name}`);
-    console.log(`Level: ${player.level}`);
-    console.log(`Class: ${player.class.title}`);
-    console.log("-----------------------------");
-});
