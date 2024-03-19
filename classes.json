@@ -9,7 +9,7 @@
     "id": "02",
     "title": "Shadowcaster",
     "group": "DPS",
-    "startingLevel": 1
+    "startingLevel": 20
   },
   {
     "id": "03",
@@ -21,37 +21,37 @@
     "id": "04",
     "title": "Frost Mage",
     "group": "DPS",
-    "startingLevel": 1
+    "startingLevel": 30
   },
   {
     "id": "05",
     "title": "Druid",
-    "group": "Tank/DPS",
-    "startingLevel": 1
+    "group": "DPS",
+    "startingLevel": 10
   },
   {
     "id": "06",
     "title": "Wind Guardian",
-    "group": "Tank/DPS",
+    "group": "Tank",
     "startingLevel": 1
   },
   {
     "id": "07",
     "title": "Assassin",
     "group": "DPS",
-    "startingLevel": 1
+    "startingLevel": 15
   },
   {
     "id": "08",
     "title": "Sun Priestess",
     "group": "Healer",
-    "startingLevel": 1
+    "startingLevel": 15
   },
   {
     "id": "09",
     "title": "Stormcaller",
     "group": "DPS",
-    "startingLevel": 1
+    "startingLevel": 20
   },
   {
     "id": "10",

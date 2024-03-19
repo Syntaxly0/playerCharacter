@@ -15,3 +15,10 @@ export interface Player {
         startingLevel: number;
     };
 }
+
+export interface Classes {
+    id: string;
+    title: string;
+    group: string;
+    startingLevel: number;
+}
