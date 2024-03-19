@@ -6,7 +6,7 @@
     "level": 70,
     "isSubbed": true,
     "birth": "1567-03-05",
-    "imageUrl": "https://github.com/Syntaxly0/playerCharacter/blob/main/EUP-0421pfp.png",
+    "imageUrl": "https://raw.githubusercontent.com/Syntaxly0/playerCharacter/main/public/assets/EUP-0421pfp.png",
     "startingCity": "Fiana",
     "skills": ["protect", "holy sword", "slash", "def up"],
     "class": {
